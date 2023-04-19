@@ -2,7 +2,7 @@ import React from "react";
 import aboutImg from "../assets/images/about.png";
 const About = () => {
   const info = [
-    { text: "Months experience", count: "06" },
+    { text: "Months experience", count: "03" },
     { text: "Completed Projects", count: "4" },
     { text: "Companies Work", count: "01" },
   ];
